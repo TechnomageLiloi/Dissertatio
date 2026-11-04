@@ -1,5 +1,5 @@
 {
-  "name": "technomage-liloi/dissertation",
+  "name": "technomage-liloi/dissertatio",
   "require": {
     "technomage-liloi/rune-framework": "dev-main",
     "technomage-liloi/rune-modules": "dev-main",
@@ -9,7 +9,7 @@
   "minimum-stability": "dev",
   "autoload": {
     "psr-4": {
-      "Liloi\\Dissertation\\": "Engine"
+      "Liloi\\Dissertatio\\": "Engine"
     }
   }
 }
